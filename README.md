@@ -3,7 +3,6 @@
 <img align="left" alt="Coding" width="400" src="https://cdn.deribbble.com/user/1162077/screenshots/3848314/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaziimran831&label=Profile%20views&color=0e75b6&style=flat" alt="gaziimran831" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gaziimran831" alt="gaziimran831" /></a> </p>
 
 - 🔭 I’m currently working on **multivendor project**
 
